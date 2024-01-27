@@ -1,4 +1,4 @@
-# KeyAuth Batch Example - If you think this is good please ⭐ Thanks!
+# KeyAuth Batch Example - If you find this helpful, kindly ⭐ Thanks!
 
 - This example illustrates potential functionality but is not fully secure. It lacks checks for license authentication, login, or register operations, merely outputting messages from the API without verifying the json.success property.
 
