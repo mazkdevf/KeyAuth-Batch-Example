@@ -1,9 +1,9 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set ver=1.0
-set name=reactexa
-set ownerid=1RDUHDudxJ
+set ver=<for more information look https://github.com/mazkdevf/KeyAuth-Batch-Example/blob/main/README.md>
+set name=<for more information look https://github.com/mazkdevf/KeyAuth-Batch-Example/blob/main/README.md>
+set ownerid=<for more information look https://github.com/mazkdevf/KeyAuth-Batch-Example/blob/main/README.md>
 
 set "init_url=https://keyauth.win/api/1.2/?type=init&ver=%ver%&name=%name%&ownerid=%ownerid%"
 
