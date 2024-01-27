@@ -1,0 +1,24 @@
+JQ is a lightweight and flexible command-line JSON processor.
+
+jq Overview:
+    jq is a powerful tool for manipulating JSON data.
+    Similar to sed for text, jq provides ease in slicing, filtering, mapping, and transforming structured data.
+
+Portability and Dependencies:
+    Written in portable C.
+    Zero runtime dependencies.
+    A single binary can be downloaded and executed on distant machines of the same type.
+
+Efficiency and Simplicity:
+    Enables easy conversion of data formats.
+    Programs written with jq are often shorter and simpler than expected.
+    Offers a concise way to achieve desired data transformations.
+
+https://jqlang.github.io/jq/
+https://github.com/jqlang/jq
+
+Here is the version that is used to create this example (1.7.1)
+This example requires that it is named as jq.exe!
+
+Download jq.exe from https://github.com/mazkdevf/KeyAuth-Batch-Example/releases/tag/1.7.1 to guarantee that it will work! or 
+Download jq.exe from https://jqlang.github.io/jq/download/ > 1.7.1 Windows 64-bit (jq-win64.exe) and rename it to jq.exe
